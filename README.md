@@ -1,4 +1,3 @@
-# CS210
 # Giogioanni Morales
 
 
